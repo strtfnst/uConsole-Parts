@@ -14,6 +14,9 @@ Some redesigned Parts for the uConsole with CM5. All measurements made by guess 
 - Frontcover: some design changes, open hardware logo insert
 - Stand: 3 part Stand with brace. Brace need 2 M3 heatset inserts.
 
+### Hackergadgets RTL-SDR board cover
+- added a cover for the RTL-SDR Hackergadgets board. Needs a testprint and confirmation
+
 
 More changes coming. More files coming.
 Soon ™
