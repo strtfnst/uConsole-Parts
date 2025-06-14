@@ -17,9 +17,9 @@ A cover to hide and secure the Hackergadgets board
 
 ## Screenshots
 
-![Frontrender](\Render\Render_back.png)
-![Backrender](\Render\Render_front.png)
-![HG board cover](\Render\HG_Cover.png)
+![Frontrender](/Render/Render_back.png)
+![Backrender](/Render/Render_front.png)
+![HG board cover](/Render/HG_Cover.png)
 ## Roadmap
 
 - HG cover version for diy SMA connectors.
