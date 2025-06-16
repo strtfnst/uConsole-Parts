@@ -6,7 +6,7 @@ After delivery of my uConsole and HG board i will make more adjustments to the f
 
 ## Remix of uConsole parts:
 - front cover with some optical changes
-- back cover with cutout for official Raspberry passive cooler (currently test printing and waiting for result)
+- back cover with cutout for official Raspberry passive cooler (test printing succesful)
 - a new version of a stand. Since the original one would not work with back cover 
 
 ## Hackergadgets RTL-SDR board cover
