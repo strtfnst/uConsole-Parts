@@ -20,6 +20,17 @@ A cover to hide and secure the Hackergadgets board
 ![Frontrender](/Render/Render_back.png)
 ![Backrender](/Render/Render_front.png)
 ![HG board cover](/Render/HG_Cover.png)
+
+## Printed and tested. 
+Short list of the parts that where succesfuly tested.
+- [x] Back cover
+- [ ] Front cover
+- [ ] Stand
+- [X] HG board cover with cutout
+- [ ] HG board cover with power button
+ 
+_last updated 17.06.2025_
+
 ## Roadmap
 
 - HG cover version for diy SMA connectors.
