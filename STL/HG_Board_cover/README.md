@@ -1,4 +1,3 @@
-
 # Hackergaddets Board Cover
 
 
@@ -21,6 +20,9 @@
 - 1x Cover_noLogo.stl
 - 1x pwr_button.stl
 - optional 1x pwr_button_+25.stl (additional clearance)
+
+#### *optional* SMA connector version
+- 1x SMA_Antenna_Cover.stl
 
 ## How to print
 
